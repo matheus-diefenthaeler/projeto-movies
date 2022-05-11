@@ -1,0 +1,12 @@
+header {
+  background-color: var(--color-primary);
+}
+
+.projectmovie-nav-content {
+  display: flex;
+  justify-content: space-between;
+}
+
+.projectmovie-contact-conteiner {
+  display: flex;
+}
