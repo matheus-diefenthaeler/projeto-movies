@@ -11,7 +11,7 @@ Frontend com React e disponibilizado no Netlify
 - Typescript
 - HTML
 - CSS
-- Javascript
+- Typescript
 - Netlify
 
 ## Link da aplição no Netlify
